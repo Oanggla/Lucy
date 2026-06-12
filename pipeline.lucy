@@ -1,0 +1,11 @@
+fn double(x) {
+    x * 2
+}
+
+fn add_ten(x) {
+    x + 10
+}
+
+// 管道傳遞計算： (5 * 2) + 10 = 20
+let val = 5 |> double() |> add_ten();
+print(val);

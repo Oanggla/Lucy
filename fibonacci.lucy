@@ -1,0 +1,11 @@
+// 遞迴計算斐波那契數列第 n 項
+fn fib(n) {
+    if n <= 1 {
+        n
+    } else {
+        fib(n - 1) + fib(n - 2)
+    }
+}
+
+let result = fib(10);
+print(result);

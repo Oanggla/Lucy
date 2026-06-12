@@ -1,0 +1,14 @@
+C:\Users\angel\nqu\SystemProgramming\114b_sp\HW02\target\debug\deps\serde-685a12e3e46b0bfb.d: C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\angel\nqu\SystemProgramming\114b_sp\HW02\target\debug\build\serde-ff447c49c588f692\out/private.rs
+
+C:\Users\angel\nqu\SystemProgramming\114b_sp\HW02\target\debug\deps\libserde-685a12e3e46b0bfb.rlib: C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\angel\nqu\SystemProgramming\114b_sp\HW02\target\debug\build\serde-ff447c49c588f692\out/private.rs
+
+C:\Users\angel\nqu\SystemProgramming\114b_sp\HW02\target\debug\deps\libserde-685a12e3e46b0bfb.rmeta: C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\angel\nqu\SystemProgramming\114b_sp\HW02\target\debug\build\serde-ff447c49c588f692\out/private.rs
+
+C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\angel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\angel\nqu\SystemProgramming\114b_sp\HW02\target\debug\build\serde-ff447c49c588f692\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\angel\\nqu\\SystemProgramming\\114b_sp\\HW02\\target\\debug\\build\\serde-ff447c49c588f692\\out

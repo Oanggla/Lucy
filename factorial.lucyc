@@ -1,0 +1,80 @@
+{
+  "constants": [
+    {
+      "Number": 0.0
+    },
+    {
+      "Number": 1.0
+    },
+    {
+      "Number": 5.0
+    },
+    "Nil"
+  ],
+  "functions": [
+    {
+      "name": "factorial",
+      "params": [
+        "n"
+      ],
+      "instructions": [
+        {
+          "LoadVar": "n"
+        },
+        {
+          "LoadConst": 0
+        },
+        "Eq",
+        {
+          "JumpIfFalse": 6
+        },
+        {
+          "LoadConst": 1
+        },
+        {
+          "Jump": 12
+        },
+        {
+          "LoadVar": "n"
+        },
+        {
+          "LoadVar": "n"
+        },
+        {
+          "LoadConst": 1
+        },
+        "Sub",
+        {
+          "Call": [
+            "factorial",
+            1
+          ]
+        },
+        "Mul",
+        "Return"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "LoadConst": 2
+    },
+    {
+      "Call": [
+        "factorial",
+        1
+      ]
+    },
+    {
+      "StoreVar": "result"
+    },
+    {
+      "LoadVar": "result"
+    },
+    "Print",
+    {
+      "LoadConst": 3
+    },
+    "Pop"
+  ]
+}
